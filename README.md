@@ -1,7 +1,7 @@
 ## Landing-cafe
 
 The project can be viewed at the link:
-[Tap on!]([https://quiet-swan-8760e1.netlify.app/](https://reliable-brigadeiros-4154e4.netlify.app/))
+[Tap on!](https://quiet-swan-8760e1.netlify.app/](https://reliable-brigadeiros-4154e4.netlify.app/)
 
 Layout using the jQuery library, pop-up window and form submission using AJAX
 
